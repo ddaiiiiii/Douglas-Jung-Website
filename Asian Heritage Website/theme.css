@@ -1,0 +1,167 @@
+body{
+	font-family: 'Lora', serif;
+	background-image: url("B.C.jpg");
+
+}
+
+body.white{
+	background-color: white;
+	font-family: 'Lora', serif;
+
+}
+
+h1 {
+	color: white;
+	background-color: black;
+	font-family: 'Lora', serif;
+	font-size: 68;
+	text-align: center;
+}
+
+h2 {
+	font-size: 36; 
+	text-decoration: underline;
+	font-family: 'Lora', serif;
+	
+}
+
+h3 {
+	font-family: 'Lora', serif;
+	font-size: 60;
+	text-align: center;
+}
+
+
+li {
+	line-height: 1.5;
+	text-indent: 20px;
+	font-size: 20;
+
+}
+
+h4 {
+
+	font-size: 36; 
+	text-decoration: underline;
+}
+
+p {
+	line-height: 1.5;
+	text-indent: 50px;
+	font-size: 20;
+	font-family: 'Lora', serif;
+	margin-bottom: 50px;
+}
+
+p.nav{
+	
+	line-height: 1.5;
+	text-indent: 50px;
+	text-align: center;
+	font-size: 30;
+	font-family: 'Lora', serif;
+	margin-bottom: 50px;
+} 
+
+img {
+	float: right;
+	margin-left:20px;
+	margin-right: 20px;
+	border: 1px solid;
+	margin-top: 5px;
+	display: block;
+	width: 30%;
+
+}
+
+div {
+	width: 800px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px; 
+	border: 5px solid;
+	margin-bottom: 50px;
+	background-color: #f5f5d6;
+}
+
+div.white{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px; 
+	border: 5px solid;
+	margin-bottom: 50px;
+	background-color: white;
+}
+
+hr {
+	color: black;
+		border: 3px solid;
+		
+}
+
+table {
+	text-align:center;
+	background: white;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	border: 5px solid;
+	font-family: 'Lora', serif;
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid black;
+	width: 400px;	
+}
+
+th {
+	text-align: center;
+	font-size: 28;
+	font-family: 'Lora', serif;
+	height: 50px;
+	background-color: #f5f5d6;
+}
+
+td {
+	background-color: #e3e3e3;
+	
+}
+
+img.g {
+	width: 400px;
+}
+
+img.g:hover {
+	border-radius: 30px;
+}
+
+iframe.g:hover{
+	border-radius: 30px;
+}
+
+a:link {
+	color: #495057;
+}
+
+a:visited {
+	color: #8a817c;
+}
+
+a:hover {
+	background-color:#704e2e;
+	color: white;
+}
+
+a:active {
+	color: #dadbdd;
+}
+
+
+
+
+
+
